@@ -253,13 +253,11 @@ html,body{
 }
 
 #checkpoint:nth-child(odd){
-    border-left: 1px solid black;
     padding-left:3em;
     transform: translateX(17vw);
 }
 
 #checkpoint:nth-child(even){
-    border-right: 1px solid black;
     padding-right: 3em;
     transform: translateX(-14.8vw);
 }
